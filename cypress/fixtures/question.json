@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "67125a4039e7aeb2ffb1d1bf",
+    "question": "Which of the following statements is used to handle exceptions in Python?",
+    "answers": [
+      {
+        "text": "catch",
+        "isCorrect": false,
+        "_id": "67125a4039e7aeb2ffb1d1c0"
+      },
+      {
+        "text": "except",
+        "isCorrect": true,
+        "_id": "67125a4039e7aeb2ffb1d1c1"
+      },
+      {
+        "text": "handle",
+        "isCorrect": false,
+        "_id": "67125a4039e7aeb2ffb1d1c2"
+      },
+      {
+        "text": "try",
+        "isCorrect": false,
+        "_id": "67125a4039e7aeb2ffb1d1c3"
+      }
+    ]
+  },
+  {
+    "_id": "67125a4039e7aeb2ffb1d1bf",
+    "question": "Which of the following statements is used to handle exceptions in Python?",
+    "answers": [
+      {
+        "text": "catch",
+        "isCorrect": false,
+        "_id": "67125a4039e7aeb2ffb1d1c0"
+      },
+      {
+        "text": "except",
+        "isCorrect": true,
+        "_id": "67125a4039e7aeb2ffb1d1c1"
+      },
+      {
+        "text": "handle",
+        "isCorrect": false,
+        "_id": "67125a4039e7aeb2ffb1d1c2"
+      },
+      {
+        "text": "try",
+        "isCorrect": false,
+        "_id": "67125a4039e7aeb2ffb1d1c3"
+      }
+    ]
+  }
+]
